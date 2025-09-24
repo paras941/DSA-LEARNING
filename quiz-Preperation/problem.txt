@@ -1,0 +1,63 @@
+What is the size of wchar_t in C++?
+a) Based on the number of bits in the system
+b) 2 or 4
+c) 4
+d) 2
+
+output is Answer: a
+Explanation: Compiler wants to make CPU as more efficient in accessing the next value.
+
+By default, all the files in C++ are opened in _________ mode.
+a) Binary
+b) VTC
+c) Text
+d) ISCII
+
+Answer: c
+Explanation: By default, all the files in C++ are opened in text mode. They read the file as normal text.
+
+/  Which of the following is correct about this pointer in C++?
+// a) this pointer is passed as a hidden argument in all static variables of a class
+// b) this pointer is passed as a hidden argument in all the functions of a class
+// c) this pointer is passed as a hidden argument in all non-static functions of a class
+// d) this pointer is passed as a hidden argument in all static functions of a class
+
+
+ Which is more effective while calling the C++ functions?
+a) call by object
+b) call by pointer
+c) call by value
+d) call by reference
+
+Answer: d
+Explanation: In the call by reference, it will just passes the reference of the memory addresses of passed values rather than copying the value to new memories which reduces the overall time and memory use.
+
+ Which keyword is used to define the macros in c++?
+a) #macro
+b) #define
+c) macro
+d) define
+
+
+Answer: b
+Explanation: #define is the keyword that is used to define the macros in c++
+
+33. The C++ code which causes abnormal termination/behaviour of a program should be written under _________ block.
+a) catch
+b) throw
+c) try
+d) finally
+View Answer
+
+Answer: c
+Explanation: Code that leads to the abnormal termination of the program should be written under the try block
+
+39. What is meant by a polymorphism in C++?
+a) class having only single form
+b) class having four forms
+c) class having many forms
+d) class having two forms
+View Answer
+
+Answer: c
+Explanation: Polymorphism is literally meant class having many forms.
