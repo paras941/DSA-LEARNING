@@ -71,12 +71,6 @@ Correct answer
 
 Explanation for better understanding
 
-🚀 How to Use
-
-Clone this repository:
-
-git clone https://github.com/your-username/cpp-quiz.git
-
 📌 Example Topics
 
 Size of special data types like wchar_t
