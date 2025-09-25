@@ -87,6 +87,10 @@ Polymorphism in OOP
 
 Macros and preprocessor directives
 
+string header file questions 
+
+pointers questions 
+
 🤝 Contributing
 
 Contributions are welcome!
