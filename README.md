@@ -40,3 +40,60 @@ DSA-LEARNING/
 * Counting and combinatorial problems
 
 * Practice problem sets
+
+📘 C++ Quiz
+
+This repository contains a collection of C++ multiple-choice quiz questions designed to help students and developers test and strengthen their understanding of C++.
+
+🧾 Overview
+
+The quiz covers fundamental and intermediate concepts of C++ such as:
+
+Data types and memory allocation
+
+File handling
+
+Pointers and references
+
+Functions and parameter passing
+
+Preprocessor directives and macros
+
+Exception handling
+
+Object-oriented programming concepts (e.g., polymorphism, this pointer)
+
+Each question is accompanied by:
+
+Multiple-choice options
+
+Correct answer
+
+Explanation for better understanding
+
+📌 Example Topics
+
+Size of special data types like wchar_t
+
+File opening modes (text vs binary)
+
+Behavior of the this pointer
+
+Function call mechanisms (value, reference, pointer)
+
+Exception handling (try, catch, throw)
+
+Polymorphism in OOP
+
+Macros and preprocessor directives
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Add new questions with answers and explanations.
+
+Improve clarity of existing explanations.
+
+Share interesting C++ quirks as MCQs.
+
