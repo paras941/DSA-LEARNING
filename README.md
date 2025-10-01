@@ -41,7 +41,7 @@ DSA-LEARNING/
 
 * Practice problem sets
 
-📘 C++ Quiz
+📘 DSA-QUESTIONS
 
 This repository contains a collection of C++ multiple-choice quiz questions designed to help students and developers test and strengthen their understanding of C++.
 
@@ -91,13 +91,4 @@ string header file questions
 
 pointers questions 
 
-🤝 Contributing
-
-Contributions are welcome!
-
-Add new questions with answers and explanations.
-
-Improve clarity of existing explanations.
-
-Share interesting C++ quirks as MCQs.
 
