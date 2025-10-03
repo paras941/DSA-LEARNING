@@ -40,7 +40,7 @@ DSA-LEARNING/
 * Counting and combinatorial problems
 
 * Practice problem sets
-
+* 
 📘 DSA-QUESTIONS
 
 This repository contains a collection of C++ multiple-choice quiz questions designed to help students and developers test and strengthen their understanding of C++.
@@ -51,7 +51,7 @@ The quiz covers fundamental and intermediate concepts of C++ such as:
 
 Data types and memory allocation
 
-File handling
+File handling.
 
 Pointers and references
 
