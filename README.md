@@ -8,23 +8,23 @@ Welcome to **DSA-LEARNING** repository! This repository contains all my **Data S
 
 DSA-LEARNING/
 │
-├─ DSA/ # Core DSA topics and implementations
+├─ DSA/ # Core DSA topics and implementations.
 │
-├─ Oops/ # Object-Oriented Programming examples
+├─ Oops/ # Object-Oriented Programming examples.
 │
-├─ Practice.problems/ # Solved practice problems
+├─ Practice.problems/ # Solved practice problems.
 │
-├─ SearchingInDsa/ # Search algorithms (linear, binary, etc.)
+├─ SearchingInDsa/ # Search algorithms (linear, binary, etc.).
 │
-├─ arrays/ # Array questions and solutions
+├─ arrays/ # Array questions and solutions.
 │
-├─ countingnumber/ # Counting-based problems
+├─ countingnumber/ # Counting-based problems.
 │
-├─ linkedlist/ # Linked list implementations
+├─ linkedlist/ # Linked list implementations.
 │
-├─ patterns/ # Pattern problems (star patterns, number patterns)
+├─ patterns/ # Pattern problems (star patterns, number patterns).
 │
-└─ pointers/ # Pointer problems and examples
+└─ pointers/ # Pointer problems and examples.
 
 
 ## Topics Covered
@@ -89,6 +89,6 @@ Macros and preprocessor directives
 
 string header file questions 
 
-pointers questions 
+pointers questions.
 
 
